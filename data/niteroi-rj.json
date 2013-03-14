@@ -35,12 +35,94 @@
         },
         {
             "name": "RFSom Assistência Técnica",
-            "address": "R. Noronha Terrezão, 21 - Santa Rosa - Niterói, RJ",
+            "address": "R. Noronha Torrezão, 21 - Santa Rosa - Niterói, RJ",
             "tels": [
                 "(21) 2710-4382"
             ],
             "lat": -22.902885,
             "long": -43.163638
-        }
+        },
+        {
+            "name": "Eletrônica Johenpess",
+            "address": "R. Lopes Trovão, 471 - Icaraí - Niterói, RJ",
+            "tels": [
+                "(21) 2711-7720"
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Escola Aldeia Curumim",
+            "address": "R. Profº Dalton Gonçalves, 436 - Pendotiba - Niterói, RJ",
+            "tels": [
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Farmacia Riodades",
+            "address": "R. Riodades, 148 - Fonseca - Niterói, RJ",
+            "tels": [
+                "(21) 3603-7000"
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla  Assaí Alcantara",
+            "address": "R. Alfredo Backer, 605 - Alcantara - Niterói, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla",
+            "address": "Av. Professor João Brasil , s/nº - Engenhoca - Niterói, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla",
+            "address": "Av. Professor João Brasil , s/nº - Engenhoca - Niterói, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla",
+            "address": "R. Visconde do Rio Branco , 731 - Centro - Niterói, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla (Parceria com a Clin)",
+            "address": "R. Jornalista Irineu Marinho , s/nº - Icaraí - Niterói, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla  (Parceria com a Clin)",
+            "address": "R. Leonor Glória , s/nº - Largo da Batalha - Niterói, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla",
+            "address": "R. Feliciano Sodré , 230 - Centro - São Gonçalo, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
+        {
+            "name": "Ampla",
+            "address": "R. Joaquim de Oliveira , lote 308 - Boa Vista - São Gonçalo, RJ",            
+            ],
+            "lat": -22.902885,
+            "long": -43.163638
+        },
     ]
 }
